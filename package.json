@@ -1,0 +1,19 @@
+{
+  "name": "@aifeipeng/prettier-config",
+  "version": "1.0.0",
+  "description": "prettier config",
+  "main": "index.json",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aifeipeng/prettier-config.git"
+  },
+  "author": "aifeipeng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aifeipeng/prettier-config/issues"
+  },
+  "homepage": "https://github.com/aifeipeng/prettier-config#readme"
+}
